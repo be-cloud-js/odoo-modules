@@ -15,7 +15,7 @@
     'description': '''
         This modules creates an export of invoices compabible with Sage 50.
     ''',
-    'active': False,
+    'active': True,
     'installable': True,
     'application': False,
 }
